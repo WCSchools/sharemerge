@@ -15,13 +15,11 @@ use strict;
 #	This perl script merges file descriptions from Sharepoint 
 #	with URLs from Interarchy. 
 #
-#	version 0.99 ---elb
+# 	USAGE:  
 #
-# 		USAGE:  
-#
-# 		perl supermerge.pl 'Interarchy file' 'Sharepoint file'
-# 		    ---or more clearly---
-# 		perl supermerge.pl urls.txt sharepoint.txt
+# 	perl supermerge.pl 'Interarchy file' 'Sharepoint file'
+# 	    ---or more clearly---
+# 	perl supermerge.pl urls.txt sharepoint.txt
 #
 # =============================================================
 
